@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=LXGW+WenKai+Mono+TC&display=swap');
+*{
+margin: 0;
+padding: 0;
+font-family: "LXGW WenKai Mono TC", monospace;
+}
+.main{
+width: 100%;
+height: 150vh;
+background-color: #f2a365;
+color: #fff;
+}
+.content{
+text-align: center;
+position: relative;
+top: 5%;
+}
+.main img{
+width: 300px;
+height: 400px;
+}
+.main h1{
+font-size: 60px;
+}
+.main p{
+font-size: 30px;
+}
+.main1 a href{
+text-align: left;
+position: relative;
+font-size: 40px;
+}
